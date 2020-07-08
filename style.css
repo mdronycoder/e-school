@@ -213,25 +213,8 @@ header {
 }
 
 
-.input-group {
-	width: 50%;
-	margin: auto;
-	border: 0;
-}
 
-.input-group input {
-	padding: 12px 30px;
-	border-radius: 50px;
-}
 
-.input-group button {
-	border-radius: 50px;
-	padding: 0 40px;
-}
-
-.input-group button:hover {
-	background: #21b573;
-}
 
 .footer-section {
 	background: #282531;
